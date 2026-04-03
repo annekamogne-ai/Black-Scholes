@@ -48,22 +48,22 @@ Main features:
 
 ##  Results
 
-### 🔹 Impact of Volatility
+###  Impact of Volatility
 
 The option price increases as volatility increases.
 This reflects higher uncertainty in the underlying asset price.
 
-### 🔹 Impact of Time to Maturity
+###  Impact of Time to Maturity
 
 Longer maturities generally lead to higher option prices due to increased uncertainty.
 
-### 🔹 Monte Carlo vs Black-Scholes
+###  Monte Carlo vs Black-Scholes
 
 Monte Carlo simulation produces results close to the analytical solution, validating the implementation.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    git clone https://github.com/annekamogne-ai/Black-Scholes.git
